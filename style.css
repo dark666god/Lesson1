@@ -44,7 +44,7 @@
   padding: 22px 70px 22px 70px;
   background: #ff6861;
   color: #ffffff;
-  border-color: #FFFFFF;
+  border-color: #ffffff;
 }
 
 .heading-img_moo {
@@ -54,10 +54,11 @@
   padding-top: 80px;
 }
 
-.heading-1_btn_link {font-family: Arial;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 25px;
-    color: #FFFFFF;
-    text-decoration: none;
+.heading-1_btn_link {
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 25px;
+  color: #ffffff;
+  text-decoration: none;
 }
