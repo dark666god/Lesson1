@@ -1,9 +1,13 @@
 * {
-  max-width: 1600px;
+
   margin: 0 auto;
 }
-
+body {
+  margin: 0; 
+  padding: 0;
+}
 .container {
+  max-width: 1600px;
   display: flex;
   padding: 0px 245px 0 245px;
   justify-content: space-around;
@@ -40,7 +44,7 @@
 
 .heading-btn {
   height: 69px;
-  width: 223px;
+  max-width: 223px;
   border-radius: 100px;
   padding: 22px 70px 22px 70px;
   background: #ff6861;
@@ -50,7 +54,7 @@
 
 .heading-img_moo {
   height: 465px;
-  width: 465px;
+  max-width: 465px;
   border-radius: 70px;
   padding-top: 80px;
 }
